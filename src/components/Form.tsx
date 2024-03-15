@@ -7,7 +7,7 @@ export default function Form() {
 
   return (
     <div>
-      <h1 className="text-center text-xl">Get in touch ✨</h1>
+      <h1 className="text-center text-xl">Hi! ✨ Get in touch </h1>
       <form
         className="flex flex-col items-center gap-12 py-24"
         name="contact"
