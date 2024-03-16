@@ -1,4 +1,4 @@
-# Astro Starter Kit: Minimal
+# Astro Starter Kit: Minimal (Froked)
 
 ```
 npm create astro@latest -- --template minimal
